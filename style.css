@@ -9,11 +9,11 @@ body{
     background: #BBDEFB;
     background-image : url('../img/pexels-pixabay-259698.jpg');
     background-size: cover;
-    background-attachment: 90vh;
+    background-attachment: 100vh;
 }
 h1 {
     background: #283593;
-    font-size: 2.20rem;
+    font-size: 2.10rem;
     text-align: center;
     padding: 20px 0;
     color: #FFFFFF;
